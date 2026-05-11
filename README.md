@@ -4,6 +4,12 @@
 
 BuildCoins is an open-source, community-driven platform where anyone in the world can contribute their skills and get compensated in cryptocurrency tokens. Developers, designers, lawyers, marketers, writers, security experts. Everyone has something to offer to this project.
 
+## Active Contest: $50 for the Best Logo
+
+We need a logo for BuildCoins cryptocurrency. Design the best one and win **$50 cash**. Submit your proposal on our Discord server. The community votes, the highest rated logo wins.
+
+[![Submit on Discord](https://img.shields.io/badge/Submit%20Your%20Logo-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XPtsC3dDyc)
+
 ## How It Works
 
 1. **Browse tasks** on [buildcoins.dev](https://buildcoins.dev) — tasks span development, design, legal, marketing, documentation, security, and more
@@ -44,5 +50,5 @@ Whatever you're good at:
 
 ## Contact
 
-Discord: **@buildcoins**,
+Discord: [Join our server](https://discord.gg/XPtsC3dDyc)
 Website: [buildcoins.dev](https://buildcoins.dev)
