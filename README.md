@@ -1,4 +1,4 @@
-# BuildCoins
+# BuildCoins.Dev
 
 **Do work. Earn coins. Build the future.**
 
